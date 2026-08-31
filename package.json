@@ -1,0 +1,8 @@
+{
+  "name": "supatraffic-test-site",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "astro": "^5.0.0"
+  }
+}
